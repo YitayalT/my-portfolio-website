@@ -89,11 +89,19 @@ export const projects = [
     tags: ['Python', 'Automation', 'Incident Response'],
     imageUrl: 'https://images.unsplash.com/photo-1620712943543-bcc4688e7485?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=765&q=80',
   },
+  
   {
     id: 3,
-    name: 'Banking Application',
-    description: 'Developed a secure banking application during university with role-based access control and transaction validation.',
-    tags: ['Java', 'Spring Boot', 'Security'],
-    imageUrl: 'https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1511&q=80',
-  },
+    name: 'Maternal Health Information System',
+    description: 'A web-based platform designed to provide essential health information and resources for expecting and new mothers. Features include appointment scheduling, health tracking, and educational resources.',
+    tags: ['HTML', 'Node.js', 'Bootstrap', 'JavaScript'],
+    imageUrl: 'https://images.unsplash.com/photo-1581056771107-24ca5f033842?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80',
+},
+{
+    id: 4,
+    name: 'Medi-Connect',
+    description: 'A healthcare application that connects patients with doctors for virtual consultations. Includes real-time chat, appointment booking, and medical record management for seamless healthcare access.',
+    tags: ['ReactJS', 'Firebase', 'TailwindCSS'],
+    imageUrl: 'https://images.unsplash.com/photo-1579684385127-1ef15d508118?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80',
+}
 ];
